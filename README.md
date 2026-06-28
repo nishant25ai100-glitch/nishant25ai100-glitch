@@ -11,7 +11,7 @@
 ## 🧠 About Me
 I'm a tech enthusiast passionate about using data 
 and AI to solve real problems. Currently building 
-my skills in Python and Data Analytics.
+my skills in Python and Data Analytics,AI & ML.
 
 ---
 
@@ -28,7 +28,7 @@ my skills in Python and Data Analytics.
 - 🏆 TATA GenAI Powered Data Analytics — Forage (2026)
 - 🏆 Data Science Essentials with Python — Cisco (2026)
 - 🏆 Introduction to Data Science — Cisco (2026)
-- 🏆 NPTEL — [Your course name]
+- 🏆 Hackathon - Reackon 7.0(2026)
 - 🏆 Ignite Bootcamp: Idea to Plan — Wadhwani Foundation
 
 ---
