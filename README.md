@@ -1,7 +1,6 @@
-## Hi there 👋
 
-<!--
 # Hey, I'm Nishant Garg 👋
+
 
 🎓 B.Tech AI Student @ JIET Jodhpur  
 📍 Rajasthan, India  
@@ -51,4 +50,3 @@ my skills in Python and Data Analytics.
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nishant.25ai100@jietjodhpur.ac.in)
--->
